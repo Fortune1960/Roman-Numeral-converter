@@ -1,9 +1,9 @@
 body {
     height: 100vh;
-    background: linear-gradient(to bottom, #ffd55c 50%, #5a94ff 50%);
+    background: linear-gradient(to bottom, #3b4d61 50%,  #6b7b8c 50%);
   }
   .container {
-    background-color: #ffffff;
+    background-color: #ef9d10;
     width: min(600px, 90vw);
     position: absolute;
     transform: translate(-50%, -50%);
